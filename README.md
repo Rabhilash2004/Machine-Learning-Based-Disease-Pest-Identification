@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Disease-Pest-Identification
+ML-based Android system designed to help arecanut farmers by enabling real-time disease and pest identification. Uses CNN and decision tree models (hybrid) with a Flask server to analyze plant images and provide remedies. This is a funded academic project; source code cannot be shared, so only result screenshots from the developed app are uploaded.
