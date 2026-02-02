@@ -23,3 +23,5 @@ The Android application is designed to assist arecanut farmers in identifying di
 This project was financially supported by the college management with a grant of ₹44,000 and further funded by JNNCE NewGen IEDC with an additional ₹10,000 for server deployment and related infrastructure support.
 
 As this is a funded academic project, the source code cannot be made publicly available. Only result images and application outputs are shared in this repository.
+
+Note: The images uploaded in this repository are screenshots taken from the developed Android application. As a result, the image quality and resolution may appear lower than the original captured images.
